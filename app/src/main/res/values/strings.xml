@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">JSONVolley_CKK</string>
     <string name="title_item_detail">Item Detail</string>
-    <string name="videogame_url">"https://api.jsonbin.io/b/5f790d2c302a837e9573f315"</string>
+    <string name="videogame_url">"https://api.jsonbin.io/b/5f790d2c302a837e9573f315/1"</string>
 </resources>
